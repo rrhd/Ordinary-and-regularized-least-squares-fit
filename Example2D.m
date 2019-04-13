@@ -1,5 +1,5 @@
 clc, clear all, close all
-%Generate date
+%Generate data
 m=50000;
 n=2;
 [x,y]=genData(m,n);
